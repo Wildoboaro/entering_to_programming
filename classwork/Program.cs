@@ -17,3 +17,14 @@ else
     Console.WriteLine("Ни одно из чисел указанных не является квадаратом второго");
 }
 
+
+
+int c = 4;
+int count = -c;
+
+while (count <= c)
+{
+    Console.Write(count);
+    Console.Write(' ');
+    count++;
+}
