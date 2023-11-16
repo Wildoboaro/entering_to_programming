@@ -7,4 +7,4 @@ long c = 918;
 long n = c;
 // Вычисление результата
 long result = n / 100 + (n - ((n / 100) * 100 + ((n - ((n / 100) * 100)) / 10) * 10));
-Console.WriteLine(result);
+Console.WriteLine("Сумма первой и последней цифры числа " + n + " составляет: " + result);
