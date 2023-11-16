@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\Homework_1\aditional\obj\Debug\net7.0\aditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\Homework_1\aditional\obj\Debug\net7.0\aditional.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\Homework_1\aditional\obj\Debug\net7.0\aditional.AssemblyInfo.cs
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\Homework_1\aditional\obj\Debug\net7.0\aditional.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\Homework_1\aditional\bin\Debug\net7.0\aditional.exe
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\Homework_1\aditional\bin\Debug\net7.0\aditional.deps.json
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\Homework_1\aditional\bin\Debug\net7.0\aditional.runtimeconfig.json
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\Homework_1\aditional\bin\Debug\net7.0\aditional.dll
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\Homework_1\aditional\bin\Debug\net7.0\aditional.pdb
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\Homework_1\aditional\obj\Debug\net7.0\aditional.dll
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\Homework_1\aditional\obj\Debug\net7.0\refint\aditional.dll
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\Homework_1\aditional\obj\Debug\net7.0\aditional.pdb
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\Homework_1\aditional\obj\Debug\net7.0\aditional.genruntimeconfig.cache
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\Homework_1\aditional\obj\Debug\net7.0\ref\aditional.dll
