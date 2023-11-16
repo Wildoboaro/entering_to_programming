@@ -2,6 +2,8 @@
 // Console.WriteLine("Hello, World!");
 int i1 = 21;
 int i2 = 3;
+int i3 = 17;
+int i4 = 5;
 long l1 = 7;
 double d1 = 8.9;
   int sum = i1 + i2;
@@ -15,7 +17,11 @@ double d1 = 8.9;
   int quotient = i1 / i2;
   long quotient_l = i1 / l1;
   double quotient_d = i1 * d1;  
-
+  int a = i1;
+  int b = i2;
+  int c = i3;
+  int d = i4;
+  double result = (a * b)/(c + d);
 Console.Write("Сумма простых чисел: ");
 Console.WriteLine(sum);
 Console.Write("Сумма простого м целочисденного: ");
@@ -34,3 +40,6 @@ Console.Write("Результат деления простого на цело�
 Console.WriteLine(quotient_l);
 Console.Write("Результат деления простого на числа с дробной частью: ");
 Console.WriteLine(quotient_d);
+
+Console.Write("Результат вычисления формулы (a * b)/(c + d): ");
+Console.WriteLine(result);
