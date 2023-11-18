@@ -3,7 +3,7 @@ int number;
 Console.Write("Введите число: ");
 number = Convert.ToInt32(Console.ReadLine());
 // Контрольный вывод переменных на экран
-Console.WriteLine($"number:  '{number}'");
+// Console.WriteLine($"number:  '{number}'");
 // решение мое
 // if ((number/2)*2 == number)
 //{
