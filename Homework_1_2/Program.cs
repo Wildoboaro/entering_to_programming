@@ -23,4 +23,5 @@ if (c > result)
 {
     result = c;
 }
-Console.WriteLine($"Максимальоне число:   '{result}'");
+// Console.WriteLine($"Максимальоне число:   '{result}'");
+return result;
