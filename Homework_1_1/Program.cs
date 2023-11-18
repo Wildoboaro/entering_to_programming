@@ -4,7 +4,7 @@ int firstNumber;
 int secondNumber;
 Console.Write("Введите первое число: ");
 firstNumber = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите второе число:: ");
+Console.Write("Введите второе число: ");
 secondNumber = Convert.ToInt32(Console.ReadLine());
 // домашка 1 часть 1
 // Контрольный вывод переменных на экран
