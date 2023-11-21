@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dog_and_two_friends/1.0.0": {
+        "runtime": {
+          "dog_and_two_friends.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dog_and_two_friends/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\dog_and_two_friends\bin\Debug\net8.0\dog_and_two_friends.exe
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\dog_and_two_friends\bin\Debug\net8.0\dog_and_two_friends.deps.json
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\dog_and_two_friends\bin\Debug\net8.0\dog_and_two_friends.runtimeconfig.json
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\dog_and_two_friends\bin\Debug\net8.0\dog_and_two_friends.dll
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\dog_and_two_friends\bin\Debug\net8.0\dog_and_two_friends.pdb
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\dog_and_two_friends\obj\Debug\net8.0\dog_and_two_friends.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\dog_and_two_friends\obj\Debug\net8.0\dog_and_two_friends.AssemblyInfoInputs.cache
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\dog_and_two_friends\obj\Debug\net8.0\dog_and_two_friends.AssemblyInfo.cs
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\dog_and_two_friends\obj\Debug\net8.0\dog_and_two_friends.csproj.CoreCompileInputs.cache
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\dog_and_two_friends\obj\Debug\net8.0\dog_and_two_friends.sourcelink.json
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\dog_and_two_friends\obj\Debug\net8.0\dog_and_two_friends.dll
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\dog_and_two_friends\obj\Debug\net8.0\refint\dog_and_two_friends.dll
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\dog_and_two_friends\obj\Debug\net8.0\dog_and_two_friends.pdb
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\dog_and_two_friends\obj\Debug\net8.0\dog_and_two_friends.genruntimeconfig.cache
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\dog_and_two_friends\obj\Debug\net8.0\ref\dog_and_two_friends.dll
