@@ -1,0 +1,15 @@
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\Homework_2_3\obj\Debug\net8.0\Homework_2_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\Homework_2_3\obj\Debug\net8.0\Homework_2_3.AssemblyInfoInputs.cache
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\Homework_2_3\obj\Debug\net8.0\Homework_2_3.AssemblyInfo.cs
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\Homework_2_3\obj\Debug\net8.0\Homework_2_3.csproj.CoreCompileInputs.cache
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\Homework_2_3\obj\Debug\net8.0\Homework_2_3.sourcelink.json
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\Homework_2_3\bin\Debug\net8.0\Homework_2_3.exe
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\Homework_2_3\bin\Debug\net8.0\Homework_2_3.deps.json
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\Homework_2_3\bin\Debug\net8.0\Homework_2_3.runtimeconfig.json
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\Homework_2_3\bin\Debug\net8.0\Homework_2_3.dll
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\Homework_2_3\bin\Debug\net8.0\Homework_2_3.pdb
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\Homework_2_3\obj\Debug\net8.0\Homework_2_3.dll
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\Homework_2_3\obj\Debug\net8.0\refint\Homework_2_3.dll
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\Homework_2_3\obj\Debug\net8.0\Homework_2_3.pdb
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\Homework_2_3\obj\Debug\net8.0\Homework_2_3.genruntimeconfig.cache
+C:\Users\Бор\Documents\Education\Entering_To_Programming\entering_to_programming\Homework_2_3\obj\Debug\net8.0\ref\Homework_2_3.dll
