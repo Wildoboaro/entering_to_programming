@@ -33,7 +33,7 @@ public static class Program
   }
   if ( x > 0 & y < 0)
   {
-  Console.WriteLine("Точка лежит во вторй четверти систмы координат"); 
+  Console.WriteLine("Точка лежит в четвертой четверти систмы координат"); 
   }
   if ( x < 0 & y < 0)
   {
@@ -41,7 +41,7 @@ public static class Program
   }
   if ( x < 0 & y > 0)
   {
-  Console.WriteLine("Точка лежит в четвертой четверти системы кооржинат");  
+  Console.WriteLine("Точка лежит во второй четверти системы кооржинат");  
   }
   }  
  } 
