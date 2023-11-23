@@ -1,14 +1,15 @@
 ﻿// Kata.ArrayDiff(new int[] {1, 2}, new int[] {1}) => new int[] {2}
 
-int[] array1 = [1, 2, 3, 4, 5, 6];
+int[] array1 = [1, 2, 2, 2, 5, 6];
 int[] array2 = [2, 5];
 // int [] array3 = new int [4];
+
 int count1 = 0;
 int count3 = 0;
-int same_size = array1.Length;
-
+function int[] Kata.ArrayDiff(int[], int[]);
+{
 // founding diff  arroy size
-
+int same_size = array1.Length;
 while (count1 < array1.Length) 
 {
     bool dif = true;
@@ -58,13 +59,14 @@ while (count1 < array1.Length)
            
     count1 = count1 + 1;
 }
-
+return array3;
+}
 
 // printing result
-
+int[] array_diff = Kata.ArrayDiff(array1, array2); 
 count3 = 0;
-while (count3 < array3.Length)
+while (count3 < array_diff.Length)
 {
-    Console.Write($"{array3[count3]} ");
+    Console.Write($"{array_diff[count3]} ");
     count3 = count3 + 1; 
 }
