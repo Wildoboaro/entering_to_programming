@@ -7,8 +7,18 @@ int num1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите число 2: ");
 int num2 = Convert.ToInt32(Console.ReadLine());
 int sum = num1 + num2;
-string res;
-while sum % 2 !=1
+string res = "";
+if (sum / 2 == 1)
 {
-    res = res   
+    res = "10";
 }
+else
+{
+while ((sum / 2) !=1 )
+{
+    sum = (sum / 2) + (sum % 2);
+    res = res + sum / 2;    
+}
+res = res + sum / 2;
+}
+Console.Write(res);
