@@ -8,20 +8,19 @@ Console.Write("Введите число 2: ");
 int num2 = Convert.ToInt32(Console.ReadLine());
 int sum = num1 + num2;
 string res = "";
-if (sum / 2 == 1)
-{
-    res = "10";
-}
-else
-{
+//if (sum / 2 == 1)
+//{
+//    res = "10";
+//}
+//else
+//{
 while ((sum / 2) != 0 )
 {
 // just for test
 // Console.Write($"{res} ");    
     res = sum % 2 + res;
     sum = (sum / 2);
-
 }
 res = sum % 2 + res;
-}
+//}
 Console.Write(res);
