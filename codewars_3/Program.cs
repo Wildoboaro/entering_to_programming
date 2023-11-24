@@ -17,11 +17,11 @@ else
 while ((sum / 2) != 0 )
 {
 // just for test
-Console.Write($"{sum} ");    
-    res = res + sum % 2;
+// Console.Write($"{res} ");    
+    res = sum % 2 + res;
     sum = (sum / 2);
-        
+
 }
-res = res + sum % 2;
+res = sum % 2 + res;
 }
 Console.Write(res);
