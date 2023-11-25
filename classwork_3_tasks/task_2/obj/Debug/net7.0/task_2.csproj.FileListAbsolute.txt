@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\classwork_3_tasks\task_2\obj\Debug\net7.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\classwork_3_tasks\task_2\obj\Debug\net7.0\task_2.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\classwork_3_tasks\task_2\obj\Debug\net7.0\task_2.AssemblyInfo.cs
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\classwork_3_tasks\task_2\obj\Debug\net7.0\task_2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\classwork_3_tasks\task_2\bin\Debug\net7.0\task_2.exe
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\classwork_3_tasks\task_2\bin\Debug\net7.0\task_2.deps.json
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\classwork_3_tasks\task_2\bin\Debug\net7.0\task_2.runtimeconfig.json
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\classwork_3_tasks\task_2\bin\Debug\net7.0\task_2.dll
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\classwork_3_tasks\task_2\bin\Debug\net7.0\task_2.pdb
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\classwork_3_tasks\task_2\obj\Debug\net7.0\task_2.dll
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\classwork_3_tasks\task_2\obj\Debug\net7.0\refint\task_2.dll
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\classwork_3_tasks\task_2\obj\Debug\net7.0\task_2.pdb
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\classwork_3_tasks\task_2\obj\Debug\net7.0\task_2.genruntimeconfig.cache
+C:\Users\Asus\Documents\Study\Homeworks\Entering_To_Programming\classwork_3_tasks\task_2\obj\Debug\net7.0\ref\task_2.dll
