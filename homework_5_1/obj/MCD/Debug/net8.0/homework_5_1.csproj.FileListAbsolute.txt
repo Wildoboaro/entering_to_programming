@@ -1,0 +1,15 @@
+C:\Users\Дом\Documents\GeekBrains\entering_to_programming\homework_5_1\bin\MCD\Debug\net8.0\homework_5_1.exe
+C:\Users\Дом\Documents\GeekBrains\entering_to_programming\homework_5_1\bin\MCD\Debug\net8.0\homework_5_1.deps.json
+C:\Users\Дом\Documents\GeekBrains\entering_to_programming\homework_5_1\bin\MCD\Debug\net8.0\homework_5_1.runtimeconfig.json
+C:\Users\Дом\Documents\GeekBrains\entering_to_programming\homework_5_1\bin\MCD\Debug\net8.0\homework_5_1.dll
+C:\Users\Дом\Documents\GeekBrains\entering_to_programming\homework_5_1\bin\MCD\Debug\net8.0\homework_5_1.pdb
+C:\Users\Дом\Documents\GeekBrains\entering_to_programming\homework_5_1\obj\MCD\Debug\net8.0\homework_5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Documents\GeekBrains\entering_to_programming\homework_5_1\obj\MCD\Debug\net8.0\homework_5_1.AssemblyInfoInputs.cache
+C:\Users\Дом\Documents\GeekBrains\entering_to_programming\homework_5_1\obj\MCD\Debug\net8.0\homework_5_1.AssemblyInfo.cs
+C:\Users\Дом\Documents\GeekBrains\entering_to_programming\homework_5_1\obj\MCD\Debug\net8.0\homework_5_1.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Documents\GeekBrains\entering_to_programming\homework_5_1\obj\MCD\Debug\net8.0\homework_5_1.sourcelink.json
+C:\Users\Дом\Documents\GeekBrains\entering_to_programming\homework_5_1\obj\MCD\Debug\net8.0\homework_5_1.dll
+C:\Users\Дом\Documents\GeekBrains\entering_to_programming\homework_5_1\obj\MCD\Debug\net8.0\refint\homework_5_1.dll
+C:\Users\Дом\Documents\GeekBrains\entering_to_programming\homework_5_1\obj\MCD\Debug\net8.0\homework_5_1.pdb
+C:\Users\Дом\Documents\GeekBrains\entering_to_programming\homework_5_1\obj\MCD\Debug\net8.0\homework_5_1.genruntimeconfig.cache
+C:\Users\Дом\Documents\GeekBrains\entering_to_programming\homework_5_1\obj\MCD\Debug\net8.0\ref\homework_5_1.dll
